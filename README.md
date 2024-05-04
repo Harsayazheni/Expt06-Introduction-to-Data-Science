@@ -166,4 +166,4 @@ plt.title('Histogram of students Marks')
 ![Screenshot 2024-05-04 100205](https://github.com/Harsayazheni/Expt06-Introduction-to-Data-Science/assets/118708467/15ad7faa-d749-4ae6-8540-e56e79949db3)
 
 # Result:
- Include your result here
+Thus, the Data Visualization using seaborn python library for the given data is implemented successfully
